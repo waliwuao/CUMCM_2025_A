@@ -46,6 +46,7 @@ pip install numpy matplotlib seaborn numba
 ```
 .
 ├── cumcm_a.py        # main script (all classes & functions)
+├── problem_a.md      # problem_description
 ├── exp.txt           # auto-created best-solution file
 ├── README.pdf        #
 └── README.md         #
